@@ -1,6 +1,6 @@
 ﻿namespace BigBangAssesment.Services
 {
-    public interface UserRepo
+    public class UserRepo
     {
     }
 }
